@@ -1,15 +1,17 @@
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Details for running get-all-perspective-details.go</summary>
 
-### You can add a header
+### Setting Environment Variables:
 
-You can add text within a collapsed section. 
+```
+   export HARNESS_ACCOUNT_ID="YOUR_ACCOUNT_ID"
+   export HARNESS_API_KEY="YOUR_API_KEY"
+```
+### Running the Program:
 
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
+```
+   go run main.go
 ```
 
 </details>
