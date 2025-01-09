@@ -1,15 +1,3 @@
-## Setting Environment Variables:
-# bash
-```
-export HARNESS_ACCOUNT_ID="YOUR_ACCOUNT_ID"
-export HARNESS_API_KEY="YOUR_API_KEY"
-```
-Running the Program:
-bash
-Copy code
-go run main.go
-
-
 <details>
 
 <summary>Tips for collapsed sections</summary>
